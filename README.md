@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing 3rd year B.Tech in Sagi Rama Krishnam Raju Engineering College , Bhimavaram<br>I'm excited collaborate on Full Stack Projects<br>I'm currently learning Generative AI<br>Feel Free to contact me
+I'm currently pursuing 4th year B.Tech in Sagi Rama Krishnam Raju Engineering College , Bhimavaram<br>I'm excited collaborate on Full Stack Projects<br>I'm currently learning Generative AI<br>Feel Free to contact me
 
 
 ## 🌐 Socials:
